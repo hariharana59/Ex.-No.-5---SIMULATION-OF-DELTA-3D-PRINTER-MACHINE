@@ -26,12 +26,13 @@
 
 ## OUTPUT:
 ![edmp3](https://github.com/hariharana59/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144980130/63df0609-a199-4e2c-a69e-3e3368c2543e)
+
 ![edmp4](https://github.com/hariharana59/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144980130/9ef33537-d180-40ea-9517-f656d1c74b97)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Hariharan A
+### Register Number: 23012392
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
